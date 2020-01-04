@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<XMBML version="1.0">
+<View id="menu_items">
+<Attributes>
+<Table key="jogo1_god_of_war_1hd">
+<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/PS3Games/jogo1_god_of_war_1hd.png</String></Pair>
+<Pair key="title"><String>God of War® HD</String></Pair>
+<Pair key="info"><String>God of War é uma série de jogos eletrônicos de ação-aventura vagamente baseado nas mitologias grega e nórdica sendo criado originalmente por David Jaffe da Santa Monica Studio. Iniciada em 2005, a série tornou-se carro-chefe para a marca PlayStation, que consiste em oito jogos em várias plataformas.</String></Pair>
+<Pair key="ingame"><String>disable</String></Pair>
+</Table>
+
+<Table key="jogo2_god_of_war_2hd">
+<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/PS3Games/jogo2_god_of_war_2hd.png</String></Pair>
+<Pair key="title"><String>God of War® II HD</String></Pair>
+<Pair key="info"><String>God of War II é um jogo eletrônico de ação-aventura hack and slash desenvolvido pela Santa Monica Studio e publicado pela Sony Computer Entertainment. </String></Pair>
+<Pair key="ingame"><String>disable</String></Pair>
+</Table>
+			
+</Attributes>
+<Items>
+<Query 
+class="type:x-xmb/folder-pixmap" 
+key="jogo1_god_of_war_1hd" 
+attr="jogo1_god_of_war_1hd" 
+src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/PS3Games/jogo1_god_of_war_1hd.xml#pett_update_main1"/>
+<Query 
+class="type:x-xmb/folder-pixmap" 
+key="jogo2_god_of_war_2hd" 
+attr="jogo2_god_of_war_2hd" 
+src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/PS3Games/jogo2_god_of_war_2hd.xml#pett_update_main1"/>
+			
+</Items>
+</View>
+</XMBML>
